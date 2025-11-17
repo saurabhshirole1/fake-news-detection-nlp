@@ -22,7 +22,6 @@ Final model accuracy: **93.7%**
 │── README.md
 │── data/
 │── notebooks/
-│── src/
 │── visuals/
 │── requirements.txt
 ```
