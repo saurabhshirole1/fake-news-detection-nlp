@@ -1,33 +1,8 @@
-1. pandas
-
-Used for loading, cleaning, and analyzing structured data (tables, CSV files).
-Helps you work with datasets easily.
-
-2. numpy
-
-Provides fast mathematical operations and array handling.
-Most data science libraries depend on it.
-
-3. nltk
-
-Natural Language Toolkit — used for text processing tasks like tokenizing, removing stopwords, stemming, lemmatizing.
-
-4. scikit-learn
-
-Machine learning library used for model training, evaluation, TF-IDF, and Naive Bayes classifier.
-
-5. matplotlib
-
-Library for creating graphs and visualizations such as bar charts, histograms, line plots.
-
-6. seaborn
-
-Built on top of matplotlib — used for prettier and more advanced statistical visualizations.
-
-7. wordcloud
-
-Used to generate word clouds that visually show the most frequent words in the dataset.
-
-8. jupyter notebook
-
-Interactive environment to write code, run it step-by-step, visualize outputs, and document your project.
+pandas
+numpy
+nltk
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+jupyter notebook
